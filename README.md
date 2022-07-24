@@ -1,4 +1,4 @@
-# Lux BootCamp Python Project
+# Fun Functions Python Project
  ## Week 1 Project
  This repo contains code for the Week 1 project at the Lux Python BootCamp
 
