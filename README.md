@@ -4,6 +4,6 @@
 
 The Prime Checker file  contains a Python fuction that checks whether a number is Prime or not
 
-The Fibonacci checker file contains a Python function that when you input a number the function you have created checks whether the number belongs to the Fibonacci sequence or not.
+The Fibonacci checker file contains a Python function that when you input a number the function created checks whether the number belongs to the Fibonacci sequence or not.
 
 
